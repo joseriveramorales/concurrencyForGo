@@ -1,2 +1,3 @@
 # concurrencyForGo
-Some Go code and exmaples
+Some Go code and examples
+
